@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.3">
+  <GameIcon />
+  <GameName>Yoshi's Island</GameName>
+  <CategoryName>Any% w/ Warps (Individual Levels)</CategoryName>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>36</AttemptCount>
+  <RunHistory>
+    <Time id="1">00:00:23.3798603</Time>
+    <Time id="2">
+    </Time>
+    <Time id="3">
+    </Time>
+    <Time id="4">00:00:34.5635327</Time>
+    <Time id="5">
+    </Time>
+    <Time id="6">00:00:23.7976972</Time>
+    <Time id="7">00:00:22.8797305</Time>
+    <Time id="8">
+    </Time>
+    <Time id="9">00:00:43.7110306</Time>
+    <Time id="10">00:01:20.2009131</Time>
+    <Time id="11">
+    </Time>
+    <Time id="12">
+    </Time>
+    <Time id="13">00:00:00.6179789</Time>
+    <Time id="14">00:01:18.0830202</Time>
+    <Time id="15">00:02:28.1550059</Time>
+    <Time id="16">00:00:55.4503021</Time>
+    <Time id="17">00:00:35.9895252</Time>
+    <Time id="18">
+    </Time>
+    <Time id="19">
+    </Time>
+    <Time id="20">
+    </Time>
+    <Time id="21">00:00:34.2105240</Time>
+    <Time id="22">
+    </Time>
+    <Time id="23">
+    </Time>
+    <Time id="24">00:01:42.8366040</Time>
+    <Time id="25">00:00:00.6400005</Time>
+  </RunHistory>
+  <Segments>
+    <Segment>
+      <Icon><![CDATA[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]]></Icon>
+      <Name>Timer</Name>
+      <SplitTimes>
+        <SplitTime name="Personal Best">00:00:00.6179789</SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>00:00:00.6179789</BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+        </Time>
+        <Time id="1">00:00:23.3798603</Time>
+        <Time id="4">00:00:34.5635327</Time>
+        <Time id="6">00:00:23.7976972</Time>
+        <Time id="-1">00:00:23.3798603</Time>
+        <Time id="7">00:00:22.8797305</Time>
+        <Time id="9">00:00:43.7110306</Time>
+        <Time id="10">00:01:20.2009131</Time>
+        <Time id="-2">00:00:22.8797305</Time>
+        <Time id="13">00:00:00.6179789</Time>
+        <Time id="14">00:01:18.0830202</Time>
+        <Time id="15">00:02:28.1550059</Time>
+        <Time id="16">00:00:55.4503021</Time>
+        <Time id="17">00:00:35.9895252</Time>
+        <Time id="21">00:00:34.2105240</Time>
+        <Time id="24">00:01:42.8366040</Time>
+        <Time id="25">00:00:00.6400005</Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+</Run>
